@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">FamilyMapClient</string>
+
+    <!-- Login Fragment Element Texts -->
+    <string name="server_host_label">Server Host:</string>
+    <string name="server_port_label">Server Port:</string>
+    <string name="username_label">User Name:</string>
+    <string name="password_label">Password:</string>
+    <string name="first_name_label">First Name:</string>
+    <string name="last_name_label">Last Name:</string>
+    <string name="email_label">Email:</string>
+    <string name="gender_label">Gender:</string>
+
+    <!-- Gender Radio Button Texts -->
+    <string name="gender_male">Male</string>
+    <string name="gender_female">Female</string>
+
+    <!-- Controller Button Text -->
+    <string name="register_button">Register</string>
+    <string name="login_button">Sign in</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
